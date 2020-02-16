@@ -1,11 +1,11 @@
 # INTRODUCTION
 
-This source using Lumen v6.3.3 + firebase/php-jwt ^5.0
-configuration (JWT+lumen)
-/app/Http/Controller/Auth.php
-/app/Http/Middleware/JwtMiddleware.php
-/bootstrap/app.php => edit file
-.env => edit file
+This source using Lumen v6.3.3 + firebase/php-jwt ^5.0<br />
+configuration (JWT+lumen)<br />
+/app/Http/Controller/Auth.php<br />
+/app/Http/Middleware/JwtMiddleware.php<br />
+/bootstrap/app.php => edit file<br />
+.env => edit file<br />
 composer require firebase/php-jwt
 
 ## Lumen PHP Framework
